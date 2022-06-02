@@ -2,15 +2,38 @@
   <img src="https://cdn.discordapp.com/attachments/965725061413740628/965772476594409512/Tezcrow-Icon.jpg" width="300"/>
 </div>
 
-## Hi there 👋
+# Tezcrow
+## P2P NFT Trading Escrow Service
 
-<!--
+Built for the Encode - Tezos Hackathon
 
-**Here are some ideas to get you started:**
+Access the whitepaper here - https://tezcroww.gitbook.io/tezcrow-tezos-p2p-trading-platform/jCg8aTGvQohubBtHp6L0/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Access the UI here - https://tezcrow.netlify.app/
+
+# Taquito Boilerplate in React
+
+![Built with Taquito][logo]
+
+A minimal React setup for starting developing Tezos DApps quickly with Taquito.
+
+## Getting Started
+
+1. Make sure you have https://nodejs.org/ installed on your computer
+2. Create a new repository from taquito-boilerplate by clicking "Use this template".
+3. Clone your new repository:
+
+   `git clone <YOUR_REPOSITORY_URL>`
+
+3. Change your current working directory to the newly cloned repository directory.
+4. Install dependencies:
+
+   `npm install`
+
+5. Start development server:
+
+   `npm run start`
+
+6. Open https://localhost:3000 in your browser to see a sample application.
+
+[logo]: https://raw.githubusercontent.com/ecadlabs/taquito-boilerplate/master/assets/built-with-taquito.png "Built with Taquito"
